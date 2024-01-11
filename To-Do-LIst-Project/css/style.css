@@ -1,0 +1,84 @@
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.input {
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+}
+
+.myform {
+    margin-top: 20px;
+}
+
+.add-todo {
+    margin-top: 20px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+th {
+    border: 2px solid black;
+    background-color: cornflowerblue;
+}
+
+td {
+    border: 2px solid black;
+}
+
+.task-form {
+    width: 300px;
+    height: 170px;
+    margin-top: 30px;
+    border: 2px solid black;
+    display: none;
+}
+
+.btn {
+    margin-top: 20px;
+    background-color: darkcyan;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.SaveData {
+    background-color: cyan;
+    border: 2px solid black;
+    margin-left: 5px;
+}
+
+
+.input-task {
+    width: 350px;
+    height: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.edit {
+    margin-right: 5px;
+    background-color: darksalmon;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+
+.delete {
+    margin: 0px 2px;
+    background-color: darksalmon;
+    color: white;
+    border: none;
+    padding: 5px;
+    margin-top: 3px;
+}
+
+.input-task {
+    width: 240px;
+}
